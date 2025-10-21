@@ -29,3 +29,5 @@ elif oper == "/":
 
 else:
     print("Não tem isso não pae")
+
+    

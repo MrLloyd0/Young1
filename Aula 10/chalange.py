@@ -23,4 +23,3 @@ PROD = z*y
 
 print(PROD)
 #É pra separar dps blz?
-

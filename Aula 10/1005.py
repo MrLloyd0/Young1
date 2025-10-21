@@ -1,5 +1,5 @@
-U = int(input())
-I = int(input())
+U = float(input())
+I = float(input())
 
-Média = U*I/2
-print(Média)
+Média = (U+I)/2
+print(f"Média = {Média}")
