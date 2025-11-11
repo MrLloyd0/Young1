@@ -11,6 +11,15 @@ class Cachorro:
     def raca(self):
          print(f"Minha raça é: {self.raça}")
 
+    def nome(self):
+        print(f"Meu nome é {self.nome}")
+    
+    def idade(self):
+        print(f"Eu tenho {self.idade} anos.")
+
+    def ap(self):
+        print(f"Eu me chamo {self.nome}, tenho {self.idade} anos e sou uma/um {self.raca}")
+
 
     def come(self):
         if self.come:
